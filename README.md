@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus Salopaso</h1>
-<h3 align="center">An Experienced Software Developer from Quezon City.</h3>
+<h3 align="center">An Experienced Full-Stack Developer from Quezon City.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusxro&label=Profile%20views&color=0e75b6&style=flat" alt="marcusxro" /> </p>
 
