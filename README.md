@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcusxro" alt="marcusxro" /></a> </p>
 
-- 🔭 I’m currently working on [Orgamix](orgamix.tech)
+- 🔭 I’m currently working on [Orgamix](orgamix)
 
 - 👨‍💻 All of my projects are available at [marcussalopaso.tech](marcussalopaso.tech)
 
