@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Marcus Salopaso</h1>
+<div style="background-color: #d0f0fd;">
+
+  <h1 align="center">Hi 👋, I'm Marcus Salopaso</h1>
 <h3 align="center">An Experienced Software Developer from Quezon City.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusxro&label=Profile%20views&color=0e75b6&style=flat" alt="marcusxro" /> </p>
@@ -27,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusxro&show_icons=true&locale=en" alt="marcusxro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusxro&" alt="marcusxro" /></p>
+
+</div>
